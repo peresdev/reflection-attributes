@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Softblue
+namespace Peres
 {
     class Program
     {
